@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "115",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "283"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldpi-v4\\values-ldpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,105",
+                        "endColumns": "48,49",
+                        "endOffsets": "100,150"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,49",
+                        "endOffsets": "99,149"
+                    }
+                }
+            ]
+        }
+    ]
+}

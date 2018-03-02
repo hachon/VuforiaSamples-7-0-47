@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_with_scanline.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\camera_overlay_with_scanline.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_02.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_02.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_plus_normal.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_screen.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_info.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\card_info.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_up.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close_button_background.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\close_button_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_close_normal.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\button_close_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vuforia_splash.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_pressed.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_activities_list_text_view.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\activities_list_text_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reticle.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\reticle.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg70.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\bg70.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_01.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_01.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg00.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\bg00.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_udt.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\camera_overlay_udt.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_background.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scanline.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\scanline.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_activities_list.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\activities_list.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_plus_pressed.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_plus_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_target_button_background.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\new_target_button_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_03.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_03.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_textreco.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_close_pressed.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\button_close_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_normal.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_down.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_reticle.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\camera_overlay_reticle.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\layout_card.xml.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\layout\\card.xml"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]

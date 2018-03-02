@@ -1,0 +1,4 @@
+#Fri Mar 02 14:15:47 CST 2018
+base.0=D\:\\Users\\Documents\\AndroidStudioProjects\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
